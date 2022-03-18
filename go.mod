@@ -1,4 +1,4 @@
-module myerror
+module github.com/mimimimizuki/myerrors
 
 go 1.18
 

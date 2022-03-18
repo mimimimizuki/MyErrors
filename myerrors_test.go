@@ -1,7 +1,6 @@
-package myerror_test
+package myerrors_test
 
 import (
-	// "strconv"
 	"myerror"
 	"testing"
 	"errors"
